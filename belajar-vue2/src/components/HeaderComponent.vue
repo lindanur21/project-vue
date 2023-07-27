@@ -2,15 +2,15 @@
 import { Carousel } from 'flowbite-vue'
 const pictures = [
     {
-        'src': 'https://alwaystrendy.files.wordpress.com/2011/10/rings1.jpg',
+        'src': 'https://sc04.alicdn.com/kf/Ha967d70de576436dba03e4662ae46578Z.jpg',
         'alt': 'Picture 1',
     },
     {
-        'src': 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//113/MTA-9979448/no-brand_gelang-pria-keren-gelang-wanita-gelang-tali-pria-gelang-tangan-wanita-gelang-cowok-aksesoris-fashion_full15.jpg',
+        'src': 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//109/MTA-18751969/bos_bos_gelang_kesehatan_pria_wanita_hematite_magnet_batu_black_onyx_hitam_keren_murah_terbaru_2021_full01_erugm05h.jpg',
         'alt': 'Picture 2',
     },
     {
-        'src': 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-49751933/oem_oem_full01.jpg',
+        'src': 'https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/01/17/1043030952.jpg',
         'alt': 'Picture 3',
     },
     {
@@ -18,7 +18,7 @@ const pictures = [
         'alt': 'Picture 4',
     },
     {
-        'src': 'https://media.istockphoto.com/id/1343282698/id/vektor/wanita-kartun-perhiasan-kalung-perak-emas-gelang-anting-anting-cincin-wanita-perhiasan.jpg?s=1024x1024&w=is&k=20&c=U8PJNMlIR7srnF2tQyajDA546jFom4uSaOFu46kvdQc=',
+        'src': 'https://ae01.alicdn.com/kf/Hf88ae800f9444f289f2ef5b0f4775b50K/DAXI-Kalung-Rantai-Warna-Emas-Trendi-Kalung-Berlapis-untuk-Wanita-Set-Kalung-Rantai-Liontin-Kalung-Tebal.jpg',
         'alt': 'Picture 5',
     },
 ]

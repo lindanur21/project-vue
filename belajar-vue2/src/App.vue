@@ -4,11 +4,16 @@
     <br>
     <HeaderComponent></HeaderComponent>
     <br>
+    <br>
     <CardComponent></CardComponent>
+    <br>
     <br>
     <CardComponent2></CardComponent2>
     <br>
+    <br>
     <CardComponent3></CardComponent3>
+    <br>
+    <br>
     <br>
     <FooterComponent></FooterComponent>
   </div>

@@ -4,7 +4,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 <template>
     <Navbar solid>
         <template #logo>
-            <NavbarLogo image-url="https://cdn.kibrispdr.org/data/69/desain-logo-toko-aksesoris-5.png">
+            <NavbarLogo image-url="https://cdn.kibrispdr.org/data/742/logo-aksesoris-wanita-4.png">
                 MyAccessories
             </NavbarLogo>
         </template>
